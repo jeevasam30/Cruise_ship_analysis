@@ -18,7 +18,7 @@ The repository is structured as follows:
   - **Vessel1_Analysis.ipynb**: Jupyter Notebook focusing on performance trends of Vessel 1.
   - **Vessel2_Analysis.ipynb**: Jupyter Notebook focusing on performance trends of Vessel 2.
   - **utilities.py**: Python script containing utility functions used across analysis notebooks.(this conatins all the helper functions)
-  - **documents**: This folder contains all the documents neccessary for this project.
+- **documents/**: This folder contains all the documents neccessary for this project.
 
 ## How to Run
 
