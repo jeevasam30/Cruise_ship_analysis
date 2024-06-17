@@ -35,7 +35,4 @@ The repository is structured as follows:
 - KPIs: Calculating efficiency metrics and visualizing trends.
 - Narrative Development: Summarizing findings and insights.
 
-## Findings
-
-- Detailed findings from the analysis including efficiency metrics, power consumption trends, and correlations.
-- Recommendations for optimizing vessel performance based on the analysis
+**Please read the documentaion to navigate through the repository**
