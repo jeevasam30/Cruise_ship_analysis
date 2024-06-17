@@ -5,6 +5,9 @@
 This repository contains Python scripts and notebooks for analyzing the performance trends of two cruise ships (Vessel 1 and Vessel 2).
 This project aims to analyze various aspects of the ships' operations using Python and SQL, focusing on key performance indicators (KPIs) such as efficiency, propulsion systems, power generation, and more.
 
+## Background
+Data given is of two Cruise ships for an year from Januray 1st to Deceber 31, 2023 in 5 minute inteval. The condition or destination in which the ships have travelled is not given.
+
 ## Repository Structure
 
 The repository is structured as follows:
@@ -15,6 +18,7 @@ The repository is structured as follows:
   - **Vessel1_Analysis.ipynb**: Jupyter Notebook focusing on performance trends of Vessel 1.
   - **Vessel2_Analysis.ipynb**: Jupyter Notebook focusing on performance trends of Vessel 2.
   - **utilities.py**: Python script containing utility functions used across analysis notebooks.(this conatins all the helper functions)
+  - **documents**: This folder contains all the documents neccessary for this project.
 
 ## How to Run
 
